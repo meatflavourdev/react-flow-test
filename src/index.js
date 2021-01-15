@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+//import Flow from './Flow';
+import ProviderFlow from './ProviderFlow';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ProviderFlow />
   </React.StrictMode>,
   document.getElementById('root')
 );
