@@ -11,7 +11,8 @@
     "react-dom": "^17.0.1",
     "react-flow-renderer": "^8.3.0",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "zustand-yjs": "^0.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
